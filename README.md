@@ -50,7 +50,7 @@ It helps identify energy-intensive appliances, understand room-wise power consum
 
 ## Dashboard Preview
 
-![Dashboard](Electricity dashboard.png)
+![Dashboard](Electricity%20dashboard.png)
 
 ## Skills Demonstrated
 
